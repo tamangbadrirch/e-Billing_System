@@ -1,0 +1,12 @@
+jDateChooser library download garne 
+right click> build path> configuration build path> library> add external jar file> agi download gareko date choose ko jar file > apply
+
+
+
+signup form ma chaine jati data database ma banaune 
+
+"jdbc://mysql:///bms","root","root");
+
+mysql - /// - equivalent to local host
+bms - db name ho 
+root user & password
